@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**rania-benaissa/rania-benaissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my github
 
 - 🔭 I’m currently working on ***Object Detection*** 
 - 🌱 I’m currently learning   **Deep Learning** and **Computer Vision** techniques.
