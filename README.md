@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
 <h3 align="center">An ambitious Master's degree student in Visual computing</h3>
 
-- 🔭 I’m currently working on **Object Detection**
+- 🔭 I’m currently working on **Objects Detection**
 
 - 🌱 I’m currently learning **Deep learning and Computer Vision Techniques**
 
