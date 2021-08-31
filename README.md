@@ -1,4 +1,4 @@
-**<h1 align="center">Hi 👋, I'm Rania</h1>
+<h1 align="center">Hi 👋, I'm Rania</h1>
 <h3 align="center">An ambitious Master's degree student in Visual computing</h3>
 
 - 🔭 I’m currently working on **Objects Detection**
@@ -14,4 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rania-benaissa&show_icons=true&locale=en&layout=compact" alt="rania-benaissa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rania-benaissa&show_icons=true&locale=en" alt="rania-benaissa" /></p>
-**
+
