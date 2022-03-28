@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
-<h3 align="center">An ambitious Master's degree student in Visual computing</h3>
+<h3 align="center">An ambitious Master's degree student in Computer Vision</h3>
 
 - 🔭 I’m currently working on **Objects Detection**
 
