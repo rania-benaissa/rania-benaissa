@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
 <h3 align="center">An ambitious Master's degree student in Computer Vision</h3>
 
-- 🔭 I’m currently working on **Objects Detection**
-
-- 🌱 I’m currently learning **Deep learning and Computer Vision Techniques**
 
 - 📫 How to reach me **ranbenaissa@gmail.com**
 
