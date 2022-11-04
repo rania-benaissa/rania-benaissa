@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me **ranbenaissa@gmail.com**
--  Being a curious and an enthusiastic learner, I have a pluridisciplinary academic background and I am always ready for new challenges related to artificial intelligence, computer graphics, software engineering in general as well as video games development.
+-  Being a curious and an enthusiastic learner, I am highly interested in new challenges related to artificial intelligence, computer graphics, software engineering in general as well as video games development.
 
 
 <h3 align="left">Languages and Tools:</h3>
